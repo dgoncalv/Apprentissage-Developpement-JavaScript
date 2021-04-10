@@ -1,0 +1,33 @@
+#video
+{ 
+    height:400px;
+    width: 80%;
+    border:1px dotted black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#buttons
+{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#record
+{
+    margin-top: 20px;
+}
+
+#drawArea
+{ 
+    height: 300px;
+    width: 80%;
+    border:1px dotted black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}

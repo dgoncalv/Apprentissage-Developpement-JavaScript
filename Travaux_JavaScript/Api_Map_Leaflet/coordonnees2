@@ -1,0 +1,9 @@
+{"villes" : [{"nom" : "MONTCUQ", "lat" : 44.3333, "lon" : 1.2167},
+           {"nom" : "LE-FION", "lat" : 46.331720, "lon" : 6.641700}, 
+           {"nom" : "SAINTE-VERGE", "lat" : 47.0167, "lon" : -0.2167},
+           {"nom" : "LA-TRIQUE", "lat" : 47.078653, "lon" : -0.916630},
+           {"nom" : "LA-CONNE", "lat" : 44.85, "lon" : 0.4833},
+           {"nom" : "GLAND", "lat" : 49.05, "lon" : 3.4667},
+           {"nom" : "FOURQUEUX", "lat" : 48.8833, "lon" : 2.0667},
+           {"nom" : "DURANUS", "lat" : 43.9, "lon" : 7.2667},
+           {"nom" : "TRECON", "lat" : 48.8667, "lon" : 4.0833}]}
